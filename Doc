@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DutyLog Privacy Policy</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      color: #111;
+    }
+    h1, h2 { color: #000; }
+  </style>
+</head>
+<body>
+  <h1>DutyLog Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> July 9, 2026</p>
+
+  <p>DutyLog respects your privacy. This app is designed to help users track work hours, shifts, and job entries without collecting personal data.</p>
+
+  <h2>Information We Collect</h2>
+  <p>DutyLog does not collect, store, or share personal information from users.</p>
+
+  <h2>Data Storage</h2>
+  <p>All app data, including work entries and settings, is stored locally on the user’s device unless otherwise stated in a future app update.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>DutyLog does not use third-party analytics, advertising SDKs, or external account systems at this time.</p>
+
+  <h2>Children’s Privacy</h2>
+  <p>DutyLog does not knowingly collect personal information from children.</p>
+
+  <h2>Changes to This Privacy Policy</h2>
+  <p>This Privacy Policy may be updated in the future if app functionality changes. Any updates will be reflected on this page.</p>
+
+  <h2>Contact</h2>
+  <p>If you have questions about this Privacy Policy, you can contact the developer at: your-email@example.com</p>
+</body>
+</html>
